@@ -33,12 +33,13 @@ PdfGPT
 ALternativa a ChatPDF para poder.
 [PdfGPT](https://pdfgpt.com/)
 
-
 Summarize.Tech
+------
 Resume vidos de youtobe, parece que va bien y mustra resumenes simples de lo que se muestra. Uso directo, sin registro ni nada
 [Summarize.Tech](https://www.summarize.tech/)
 
 ## Calendario
+
 Reclaim
 ------
 Calendario que va por AI para productividad, se puede sincronizar con cosas de google.
@@ -50,21 +51,23 @@ Calculador de tiempo que te permite recalcular tu horario para que no se pierda 
 [Flowsavvy](https://flowsavvy.app/)
 
 ## Automatizacion de tareas
+
 Gumloop
 ------
 Utilizando la interfaz puedes automatizar tareas sin necesidad de codigo, parece muy completo y sin necesidad de codigo? (sobramos y no lo sabemos)
 [Gumloop](https://www.gumloop.com/)
 
 Wordware
+------
 Se puede crear Ajentes Ai con lenguaje natural, parece que hay pagos pero sera algo similar a crear LLM pero por online mediante ostra IA que transcriba las palabras a tokens. Parece que puedes conectarlas por API.
-https://www.wordware.ai/
 [Wordware](https://www.wordware.ai/)
 
 Goblin.Tools
+------
 Parece un descomeponedor de tareas, rollo le indicas una palabra y mediante AI te hace una lista de que hacer para cumplirla. La verdad es que es muy interesante lo que se muestra para ahorrar tiempo. Permite realizar cestimaciones de tiempo.
 [Goblin.Tools](https://goblin.tools/)
 
 Taskade
+------
 Parece un framework con un amplio uso de organizacion y estructuracion de las tareas. Parece que hay que registrarse pero es gratis.
-https://www.taskade.com/
 [Taskade](https://www.taskade.com/)
