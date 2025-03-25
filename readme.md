@@ -1,9 +1,10 @@
 # Listados de App de productividad
 
 ## AI de chat con modelos para hablar generales.
+
 Le Chat
 ------
-IA similar a ChatGPT pero fances, es posible que sea algo inferior pero no hay mayres diferencias que yo haya notado a la fecha de escritura. [Le Chat](https://chat.mistral.ai/)
+IA de uso general similar a ChatGPT pero Europea (Francia), es posible que sea algo inferior en algunos aspectos pero no hay mayores diferencias que yo haya notado a la fecha de escritura. Se le puede adjuntar imagenes para que las procese y as entiende como ecuaciones. [Le Chat](https://chat.mistral.ai/)
  
 ChatGPT
 ------
@@ -16,26 +17,25 @@ Similar a los demas pero de Google, tiene la capacidad de crear imagenes simples
 [Gemini](https://gemini.google.com/)
 
 ## Motores de busqueda y de scrapping con AI.
-Se trata de motres que pueden buscar en Ai, parece que cada vez hay mas como Le chat. Si bien los que se indicaran son usados y creados para este fin.
 
 Perplexity
 ------
-Motor de busqueda potenciado por IA, es un buen sustituto de Google para optimizar tiempo sin necesidad de buscar información.
+Motor de busqueda potenciado por IA, es un buen sustituto de Google para optimizar tiempo sin necesidad de buscar información. Recomendado para busquedas en red y para temas mas relacionados con la ciencia.
 [Perplexity](https://www.perplexity.ai/)
 
 ChatPDF
 ------
-Parece ser un chateador de pdf, tarda en subirse paece ser, mejor si sin pequeños o se va por fragmentos.
+Parece ser un chateador de pdf, tarda en subirse paece ser, mejor si sin pequeños o se va por fragmentos del pdf. Recomendado usar para bloques de unas 8 paginas.
 [ChatPDF](https://www.chatpdf.com/es)
 
 PdfGPT
 ------
-ALternativa a ChatPDF para poder.
+ALternativa a ChatPDF.
 [PdfGPT](https://pdfgpt.com/)
 
 Summarize.Tech
 ------
-Resume vidos de youtobe, parece que va bien y mustra resumenes simples de lo que se muestra. Uso directo, sin registro ni nada
+Resume vidos de youtobe, parece que va bien y mustra resumenes simples de lo que se muestra. Uso directo, sin registro ni nada. Las pruebas se han realizado con videos de unos 15 min con tiempo de espera aceptable.
 [Summarize.Tech](https://www.summarize.tech/)
 
 ## Calendario
