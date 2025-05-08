@@ -16,6 +16,11 @@ Gemini
 Similar a los demas pero de Google, tiene la capacidad de crear imagenes simples, puede ser inetersante para casos rapidos.
 [Gemini](https://gemini.google.com/)
 
+PenTestingGPT
+------
+Gpt para uso de cyberseguridad etica, cuidado!!
+[PenTestingGPT](https://pentestgpt.ai/c)
+
 ## Motores de busqueda y de scrapping con AI.
 
 Perplexity
