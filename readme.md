@@ -1,6 +1,7 @@
 # Listados de App de productividad
+------
 
-## AI de chat con modelos para hablar generales.
+# AI de chat con modelos para hablar generales.
 
 Le Chat
 ------
@@ -21,7 +22,7 @@ PenTestingGPT
 Gpt para uso de cyberseguridad etica, cuidado!!
 [PenTestingGPT](https://pentestgpt.ai/c)
 
-## Motores de busqueda y de scrapping con AI.
+# Motores de busqueda y de scrapping con AI.
 
 Perplexity
 ------
@@ -43,7 +44,7 @@ Summarize.Tech
 Resume vidos de youtobe, parece que va bien y mustra resumenes simples de lo que se muestra. Uso directo, sin registro ni nada. Las pruebas se han realizado con videos de unos 15 min con tiempo de espera aceptable.
 [Summarize.Tech](https://www.summarize.tech/)
 
-## Calendario
+# Calendario
 
 Reclaim
 ------
@@ -55,7 +56,7 @@ Flowsavvy
 Calculador de tiempo que te permite recalcular tu horario para que no se pierda nada, pero le deja a la ia hacerlo, quizas se descrontrole?
 [Flowsavvy](https://flowsavvy.app/)
 
-## Automatizacion de tareas
+# Automatizacion de tareas
 
 Gumloop
 ------
@@ -97,7 +98,7 @@ Recopila iconos de carga y animaciones tienes para que sea con react, css y otra
 
 
 
-## Formacion
+# Formacion
 CodeDex
 ------
 Videojuegos que son para aprender Programacion y pasarselo bien. Vale la pena darles un ojo. Hay pago pero parece que puedes acceder a unos cuantos cursos.
@@ -131,7 +132,7 @@ Pagina interactva para aprender como fncionan las vulnerabilidades
 
 
 
-## BodyBuilding (porque la documentacion dice que hay que hacer deporte)
+# BodyBuilding (porque la documentacion dice que hay que hacer deporte)
 Darebee
 ------
 Pagina con muchas rutinas de ejercicio, con o sin equipo para hacer en casa. Ademas hay videos.
@@ -143,7 +144,7 @@ Selecciona un musculo y a trabajarlo, mejor si estas en el gym
 [MuscleWiki](https://musclewiki.com)
 
 
-## Miscelana (cosas que no son de producividad pero que esta guay saberlas)
+# Miscelana (cosas que no son de producividad pero que esta guay saberlas)
 Retrogames
 ------
 Pagina con juegos hasta la play 1 (incluida) y hackroms, se puede jugar en el navegador.
