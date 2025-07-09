@@ -76,3 +76,36 @@ Taskade
 ------
 Parece un framework con un amplio uso de organizacion y estructuracion de las tareas. Parece que hay que registrarse pero es gratis.
 [Taskade](https://www.taskade.com/)
+
+
+## Formacion
+CodeDex
+------
+Videojuegos que son para aprender Programacion y pasarselo bien. Vale la pena darles un ojo. Hay pago pero parece que puedes acceder a unos cuantos cursos.
+[CodeDex](https://www.codedex.io/courses)
+
+QuickRef
+------
+Pagina de cheatsheets que te permite tener casi todos los lenguajes con ejemplos de codigo para conocerlo y saber de lo que hablas.
+[QuickRef](https://quickref.me)
+
+Phet Colorado
+------
+Pagina de simulacion de conceptos de fisica generales, muy guay lo que s epresenta, y todo esto gratis.
+[Phet Colorado](https://phet.colorado.edu)
+
+
+React Bits
+------
+Pagina con codigo de react y modulos para que haya cosas muy bonitas y chulis  nivel visual
+[React Bits](https://www.reactbits.dev)
+
+
+
+## BodyBuilding (porque la documentacion dice que hay que hacer deporte)
+Darebee
+------
+Pagina con muchas rutinas de ejercicio, con o sin equipo para hacer en casa. Ademas hay videos.
+[Darebee](https://darebee.com/workout.html)
+
+
