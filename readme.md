@@ -78,6 +78,25 @@ Parece un framework con un amplio uso de organizacion y estructuracion de las ta
 [Taskade](https://www.taskade.com/)
 
 
+Tinywow
+------
+Pagina que recopila unas 200 herramientas de productividad, hay cosas muy interesantes que nos puedes ayudar a hacer cosas interesantes.
+[Tinywow] (https://tinywow.com)
+
+
+Edraw Max
+------
+Pagina que puedes crear diagramas de flujo de una forma rapida y eficiente, tiene app y esta para Linux tambien.
+[Edraw Max] (https://www.edrawmax.com)
+
+
+Ui Ball
+------
+Recopila iconos de carga y animaciones tienes para que sea con react, css y otras opciones
+[Ui Ball] (https://uiball.com/)
+
+
+
 ## Formacion
 CodeDex
 ------
@@ -97,8 +116,18 @@ Pagina de simulacion de conceptos de fisica generales, muy guay lo que s epresen
 
 React Bits
 ------
-Pagina con codigo de react y modulos para que haya cosas muy bonitas y chulis  nivel visual
+Pagina con codigo de react y modulos para que haya cosas muy bonitas y chulis  nivel visual (UX UI)
 [React Bits](https://www.reactbits.dev)
+
+Staying Fun
+------
+Pagina para visualizar algoritmos y estructuras de datos.
+[Staying Fun](https://staying.fun/en)
+
+Hacks Planining
+------
+Pagina interactva para aprender como fncionan las vulnerabilidades
+[Hacks Planining](https://www.hacksplaining.com)
 
 
 
@@ -108,4 +137,32 @@ Darebee
 Pagina con muchas rutinas de ejercicio, con o sin equipo para hacer en casa. Ademas hay videos.
 [Darebee](https://darebee.com/workout.html)
 
+MuscleWiki
+------
+Selecciona un musculo y a trabajarlo, mejor si estas en el gym
+[MuscleWiki](https://musclewiki.com)
 
+
+## Miscelana (cosas que no son de producividad pero que esta guay saberlas)
+Retrogames
+------
+Pagina con juegos hasta la play 1 (incluida) y hackroms, se puede jugar en el navegador.
+[Retrogames](https://www.retrogames.me)
+
+
+Tv Garden
+------
+Pagina de teles gratis y faciles de acceder, parece que no estan todos los canala,es por ejemple telecinco no esta. Pero puedes ver dibujos animados en armenio.
+[Tv Garden](https://tv.garden)
+
+
+BuildCores
+------
+Pagina que te permite monstar tu propio pc y ver el rendimiento en juegos
+[BuildCores](https://www.buildcores.com)
+
+
+Supercook
+------
+Pagina para poder ver recetas en base a ingredientes.
+[Supercook](https://www.supercook.com/#/desktop)
